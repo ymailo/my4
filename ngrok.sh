@@ -9,7 +9,7 @@ clear
 echo "======================="
 echo choose ngrok region
 echo "======================="
-echo "us - United States (Ohio)"
+echo "us - United States (New England)"
 echo "eu - Europe (Frankfurt)"
 echo "ap - Asia/Pacific (Singapore)"
 echo "au - Australia (Sydney)"
