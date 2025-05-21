@@ -1,4 +1,4 @@
-wget -O ng.sh https://bit.ly/akuhnetngrok > /dev/null 2>&1
+wget -O ng.sh https://raw.githubusercontent.com/ymailo/my4/refs/heads/main/ngrok.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 echo "================================"
